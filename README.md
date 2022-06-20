@@ -1,4 +1,4 @@
-# Trabalho-Final
+# Trabalho Final
 Repositório do trabalho Final - Banco De Dados - Professor Abrantes Araujo
 
 # Projeto do Sistema Academico 
