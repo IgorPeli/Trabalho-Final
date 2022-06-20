@@ -1,1 +1,1 @@
-# O Projeto Lógico no formato do SQL POWER ARCHITET
+# O Projeto Lógico no formato do Sql Power Architet
